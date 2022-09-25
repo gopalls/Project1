@@ -34,19 +34,19 @@ body{
         font-weight: 300;
         margin-left: 50px;
     }
-    .user-navbar {
+    .uzer-navbar {
         display: flex;
         justify-content: space-between;
         align-items: center;
         margin-left: 50px; 
         width: 250px;
      }
-      .user-navbar__user{
+      .uzer-navbar__uzer{
         display: flex;
         align-items: center;
         justify-content: flex-start;   
     }
-    .user-navbar__user-photo { 
+    .uzer-navbar__uzer-photo { 
         height: 50px;
         border-radius: 60%;
         margin-right: 5px;
@@ -89,7 +89,7 @@ body{
     }
     
     
-    .middle-section{
+    .middle-sectn{
     /* background-color:rgb(160, 180, 180); */
     display: flex;
     margin-left: 200px;
@@ -166,21 +166,21 @@ body{
 .content-img{
     display: flex;
 }
-.review__user-img{
+.reviiew__uzer-img{
     height: 50px;
     border-radius: 60%;
     width:50px;
     margin-top: 30px;
 }
-.review__user-name{
+.reviiew__uzer-name{
     margin-left: 20px;
     margin-top: 30px;
 }
-.review__user-date{
+.reviiew__uzer-date{
     margin-left: 20px;
     margin-top: 10px;
 }
-.review__user-rating{
+.reviiew__uzer-rating{
     margin-left: 60px;
     margin-top: 40px;
     color: #FF3366;
@@ -189,7 +189,7 @@ body{
 .content{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
 }
-.description_text_3{
+.description_text_33{
     margin-left: 780px;
     margin-top: 30px;
     display: flex;
@@ -200,22 +200,22 @@ body{
 .content-img{
     display: flex;
 }
-.review__user-img{
+.reviiew__uzer-img{
     height: 50px;
     border-radius: 60%;
     width:50px;
     margin-top: 30px;
 }
-.review__user-name{
+.reviiew__uzer-name{
     font-size: 15px;
     margin-top: 30px;
 }
-.review__user-date{
+.reviiew__uzer-date{
     margin-left: 15px;
     margin-top: 10px;
     font-size: small;
 }
-.review__user-rating{
+.reviiew__uzer-rating{
     margin-left: 50px;
     margin-top: 40px;
     color: #FF3366;
@@ -232,17 +232,17 @@ body{
     text-decoration: underline;
     color: #FF3366;
 }
-.section-news{
+.sectn-newz{
     margin-left: 1050px;
     margin-top: -500px;
 }
-.news{
+.newz{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
     text-align: center;
     color: grey;
 }
-.btn_book{
+.btn_book1{
         font-size: 15px;
         border-radius: 150px;
         border: none;
